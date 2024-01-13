@@ -1,3 +1,12 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayberk Gezer
+====================================================================================================================================
+
+Data Science | Machine Learning & Artificial Intelligence Engineer
+------------------------------------------------------------------
+
+Hello, I have been working in the field of machine learning and artificial intelligence for a long time. Nowadays, I am learning backend structures to distribute my projects. If you have a question and want to consult, do not hesitate to contact me.
+
+* ✉️  You can contact me at [ayberkgezer@outlook.com](mailto:ayberkgezer@outlook.com)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayberkgezer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayberkgezer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayberkgezer) 
 
