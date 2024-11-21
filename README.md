@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayberk Gezer
 ====================================================================================================================================
 
-Backend Developer | DevOps Enginner | Artificial Intelligence Engineer
+Backend Developer | DevOps Engineer | Artificial Intelligence Engineer
 ------------------------------------------------------------------
 
 Hello, I have been working in the field of machine learning and artificial intelligence for a long time. Nowadays, I am learning backend structures to distribute my projects. If you have a question and want to consult, do not hesitate to contact me.
